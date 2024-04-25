@@ -6,9 +6,9 @@ platform:
 - mobile
 check:
   ja: |-
-    テキストの表示色と背景色には、充分なコントラスト比が確保されている。
+    テキストの表示色と背景色には、充分なコントラスト比（ 4.5:1以上 ）が確保されている。
   en: |-
-    Sufficient contrast ratio is maintained between the display color of the text and the background color.
+    Sufficient contrast ratio is maintained between the display color of the text and the background color.（4.5:1 or higher）
 procedures:
 - platform: web
   procedure:
